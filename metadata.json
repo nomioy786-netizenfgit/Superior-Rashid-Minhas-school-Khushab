@@ -1,0 +1,6 @@
+{
+  "name": "Superior Rashid Minhas School Khushab",
+  "description": "Official modern website for Superior Rashid Minhas School Khushab, Punjab. Providing quality education, character building, modern science & computer labs, admissions open and parent portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
